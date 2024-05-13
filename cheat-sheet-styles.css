@@ -85,7 +85,7 @@ th {
 
 .description {
     opacity: 50%;
-    text-align: left;
+    text-align: left !important;
 }
 
 .outer {
