@@ -1,0 +1,108 @@
+* {
+    display: block;
+    text-decoration: none;
+    padding: 0;
+    font-family: 'Reddit Sans';
+    text-align: center;
+}
+
+title, head{
+    display: none;
+}
+
+h1 {
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+}
+
+h2 {
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+}
+
+h3 {
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+}
+
+p {
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    line-height: 1;
+}
+
+body {
+    display: block;
+    background-color: rgb(11, 17, 27);
+    margin: 64px 80px 64px 80px;
+}
+
+table {
+    display: table;
+    margin: 0 auto;
+    width: 960px;
+    border-collapse: collapse;
+}
+
+tr {
+    display: table-row;
+}
+
+td {
+    margin: 0 auto;
+    padding: 16px;
+    border: solid 1px rgb(19, 26, 41);
+    font-weight: 300;
+    color: #fff;
+    font-size: 20px;
+    line-height: 1;
+    display: table-cell;
+    letter-spacing: 0.75px;
+}
+
+th {
+    background-color: rgba(72, 61, 139, 0.1);
+    margin: 0 auto;
+    padding: 16px;
+    border: solid 1px rgb(19, 26, 41);
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    line-height: 1;
+    display: table-cell;
+    letter-spacing: 0.75px;
+}
+
+.code {
+    color: rgb(126, 214, 155);
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.description {
+    opacity: 50%;
+}
+
+.outer {
+    border: solid 1px rgb(19, 26, 41);
+    border-radius: 16px;
+    overflow: hidden;
+    margin: 40px auto 64px auto;
+    width: 960px;
+}
+
+.col1{
+    width: 160px;
+}
+
+.col2{
+    width: 160px;
+}
+
+.col3{
+    width: 540px;
+}
