@@ -37,7 +37,7 @@ p {
 
 body {
     display: block;
-    background: linear-gradient(177deg, #030E22 35.31%, #005536 87.56%, #00765A 110.21%);
+    background: #030E22;
     margin: 64px 80px 64px 80px;
 }
 
